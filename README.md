@@ -1,7 +1,7 @@
 
 リンク：[【Theolizer公式サイト】](https://theolizer.com)[【サポート掲示板】](https://theolizer.com/customer/forums/)
 
-Qiitaの記事[C#とC++の速度比較をちょっとまじめにやってみた](https://qiita.com/e8c9f0147669f941936a)で用いたソース・コード一式です。
+Qiitaの記事[C#とC++の速度比較をちょっとまじめにやってみた](https://qiita.com/Chironian/items/e8c9f0147669f941936a)で用いたソース・コード一式です。
 
 詳しい評価目的はTheolizerのIssues #42[メタ・シリアライズによるC#連携機能の追加について](https://github.com/yossi-tahara/Theolizer/issues/42)を参照下さい。
 
